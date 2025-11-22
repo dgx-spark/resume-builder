@@ -2,7 +2,8 @@
 
 A lightweight, privacy-focused, single-file resume builder that runs entirely in your browser. Create beautiful, ATS-friendly resumes and export them to PDF or DOCX without signing up or uploading your data to a server.
 
-![Resume Builder Preview](https://via.placeholder.com/800x400?text=Resume+Builder+Preview)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fec5fda1-67b3-4e06-b600-c075cbb34199" />
+
 
 ## ✨ Features
 
