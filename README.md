@@ -1,4 +1,4 @@
-# Professional Resume Builder
+# Professional Resume Builder - Fast
 
 A lightweight, privacy-focused, single-file resume builder that runs entirely in your browser. Create beautiful, ATS-friendly resumes and export them to PDF or DOCX without signing up or uploading your data to a server.
 
@@ -21,7 +21,6 @@ A lightweight, privacy-focused, single-file resume builder that runs entirely in
 ### Option 1: Use Online (GitHub Pages)
 
 [**Click here to open the Resume Builder**](https://dgx-spark.github.io/resume-builder/)
-*(Replace this link after you enable GitHub Pages)*
 
 ### Option 2: Run Locally
 
