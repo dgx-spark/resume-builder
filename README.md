@@ -2,7 +2,7 @@
 
 A lightweight, privacy-focused, single-file resume builder that runs entirely in your browser. Create beautiful, ATS-friendly resumes and export them to PDF or DOCX without signing up or uploading your data to a server.
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fec5fda1-67b3-4e06-b600-c075cbb34199" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a8d3e4f-f2ca-461e-83fc-d302fa772dc6" />
 
 
 ## ✨ Features
@@ -20,7 +20,7 @@ A lightweight, privacy-focused, single-file resume builder that runs entirely in
 
 ### Option 1: Use Online (GitHub Pages)
 
-[**Click here to open the Resume Builder**](https://yourusername.github.io/your-repo-name/)
+[**Click here to open the Resume Builder**](https://dgx-spark.github.io/resume-builder/)
 *(Replace this link after you enable GitHub Pages)*
 
 ### Option 2: Run Locally
